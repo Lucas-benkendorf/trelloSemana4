@@ -25,5 +25,5 @@ function capturarValores() {
     
         console.log('Valor do Número 1:', valorNumero1);
         console.log('Valor do Número 2:', valorNumero2);
-        console.log('Resultado da soma:', soma);
+        alert('Resultado da soma:', soma);
     }
